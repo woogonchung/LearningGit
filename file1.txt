@@ -2,3 +2,14 @@ file1.txt
 =========
 
 The content of the file1.txt
+
+* The first headline
+The line belogns to the first headline
+
+* The second headline
+This line belongs to the second head line
+
+** Level 2 title
+This line should be under this Level 2 title.
+
+In a new line how does this look?
